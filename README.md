@@ -1,3 +1,5 @@
+![logo](https://github.com/anjalisharma0209/anjalisharma0209/blob/main/dp.jpeg)
+
 <h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
