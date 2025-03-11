@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalisharma0209&label=Profile%20views&color=0e75b6&style=flat" alt="anjalisharma0209" /> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **Student-Management-System**
 
-- 🌱 I’m currently learning **flask, Django**
+- 🌱 I’m currently learning **Flask, Django**
 
 - 📫 How to reach me **anjali.s291998@gmail.com**
 
