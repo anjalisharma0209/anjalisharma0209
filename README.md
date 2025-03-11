@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anjali.s291998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N-8neAy8uSXfmFekaCx51o7a6h1Xf76s/view?usp=sharing]([https://drive.google.com/file/d/1N-8neAy8uSXfmFekaCx51o7a6h1Xf76s/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1N-8neAy8uSXfmFekaCx51o7a6h1Xf76s/view?usp=sharing]([(https://drive.google.com/drive/u/0/my-drive)])
 
 - ⚡ Fun fact **"Code runs, but do you know why?" 😄**
 
