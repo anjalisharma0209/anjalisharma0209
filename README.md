@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Flask, Django**
 
 - 📫 How to reach me **anjali.s291998@gmail.com**
+- - 📄 Know about my experiences (https://drive.google.com/file/d/1dE6QwnhT3ke3d34JVdaIgOJCs1O-pUvK/view?usp=sharing)
 
 - ⚡ Fun fact **"Code runs, but do you know why?" 😄**
 
